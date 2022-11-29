@@ -1,0 +1,41 @@
+{
+  "parties": [
+    {
+      "name": "McLaren's",
+      "mandates": 30,
+      "join_policy": "L"
+    },
+    {
+      "name": "Central Perk",
+      "mandates": 30,
+      "join_policy": "L"
+    },
+    {
+      "name": "Ba Sing Se",
+      "mandates": 30,
+      "join_policy": "L"
+    },
+    {
+      "name": "The Krusty Krab",
+      "mandates": 30,
+      "join_policy": "L"
+    }
+  ],
+  "graph": [
+    [0, 4, 5, 6],
+    [4, 0, 7, 5],
+    [5, 7, 0, 4],
+    [6, 5, 4, 0]
+  ],
+  "agents": [
+    {
+      "party_id": 0,
+      "selection_policy": "E"
+    },
+    {
+      "party_id": 3,
+      "selection_policy": "E"
+    }
+  ]
+}
+  

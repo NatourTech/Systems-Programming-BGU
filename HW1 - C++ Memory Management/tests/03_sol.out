@@ -1,0 +1,582 @@
+[
+    {
+        "agents": [
+            {
+                "id": 0,
+                "partyId": 0
+            },
+            {
+                "id": 1,
+                "partyId": 3
+            }
+        ],
+        "coalitions": [
+            {
+                "mandates": 30,
+                "parties": [
+                    0
+                ]
+            },
+            {
+                "mandates": 30,
+                "parties": [
+                    3
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "from": 0,
+                "to": 1,
+                "weight": 4
+            },
+            {
+                "from": 0,
+                "to": 2,
+                "weight": 5
+            },
+            {
+                "from": 0,
+                "to": 3,
+                "weight": 6
+            },
+            {
+                "from": 1,
+                "to": 0,
+                "weight": 4
+            },
+            {
+                "from": 1,
+                "to": 2,
+                "weight": 7
+            },
+            {
+                "from": 1,
+                "to": 3,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 0,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 1,
+                "weight": 7
+            },
+            {
+                "from": 2,
+                "to": 3,
+                "weight": 4
+            },
+            {
+                "from": 3,
+                "to": 0,
+                "weight": 6
+            },
+            {
+                "from": 3,
+                "to": 1,
+                "weight": 5
+            },
+            {
+                "from": 3,
+                "to": 2,
+                "weight": 4
+            }
+        ],
+        "parties": [
+            {
+                "id": 0,
+                "mandates": 30,
+                "name": "McLaren's",
+                "state": "Joined"
+            },
+            {
+                "id": 1,
+                "mandates": 30,
+                "name": "Central Perk",
+                "state": "Waiting"
+            },
+            {
+                "id": 2,
+                "mandates": 30,
+                "name": "Ba Sing Se",
+                "state": "Waiting"
+            },
+            {
+                "id": 3,
+                "mandates": 30,
+                "name": "The Krusty Krab",
+                "state": "Joined"
+            }
+        ]
+    },
+    {
+        "agents": [
+            {
+                "id": 0,
+                "partyId": 0
+            },
+            {
+                "id": 1,
+                "partyId": 3
+            }
+        ],
+        "coalitions": [
+            {
+                "mandates": 30,
+                "parties": [
+                    0
+                ]
+            },
+            {
+                "mandates": 30,
+                "parties": [
+                    3
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "from": 0,
+                "to": 1,
+                "weight": 4
+            },
+            {
+                "from": 0,
+                "to": 2,
+                "weight": 5
+            },
+            {
+                "from": 0,
+                "to": 3,
+                "weight": 6
+            },
+            {
+                "from": 1,
+                "to": 0,
+                "weight": 4
+            },
+            {
+                "from": 1,
+                "to": 2,
+                "weight": 7
+            },
+            {
+                "from": 1,
+                "to": 3,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 0,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 1,
+                "weight": 7
+            },
+            {
+                "from": 2,
+                "to": 3,
+                "weight": 4
+            },
+            {
+                "from": 3,
+                "to": 0,
+                "weight": 6
+            },
+            {
+                "from": 3,
+                "to": 1,
+                "weight": 5
+            },
+            {
+                "from": 3,
+                "to": 2,
+                "weight": 4
+            }
+        ],
+        "parties": [
+            {
+                "id": 0,
+                "mandates": 30,
+                "name": "McLaren's",
+                "state": "Joined"
+            },
+            {
+                "id": 1,
+                "mandates": 30,
+                "name": "Central Perk",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 2,
+                "mandates": 30,
+                "name": "Ba Sing Se",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 3,
+                "mandates": 30,
+                "name": "The Krusty Krab",
+                "state": "Joined"
+            }
+        ]
+    },
+    {
+        "agents": [
+            {
+                "id": 0,
+                "partyId": 0
+            },
+            {
+                "id": 1,
+                "partyId": 3
+            }
+        ],
+        "coalitions": [
+            {
+                "mandates": 30,
+                "parties": [
+                    0
+                ]
+            },
+            {
+                "mandates": 30,
+                "parties": [
+                    3
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "from": 0,
+                "to": 1,
+                "weight": 4
+            },
+            {
+                "from": 0,
+                "to": 2,
+                "weight": 5
+            },
+            {
+                "from": 0,
+                "to": 3,
+                "weight": 6
+            },
+            {
+                "from": 1,
+                "to": 0,
+                "weight": 4
+            },
+            {
+                "from": 1,
+                "to": 2,
+                "weight": 7
+            },
+            {
+                "from": 1,
+                "to": 3,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 0,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 1,
+                "weight": 7
+            },
+            {
+                "from": 2,
+                "to": 3,
+                "weight": 4
+            },
+            {
+                "from": 3,
+                "to": 0,
+                "weight": 6
+            },
+            {
+                "from": 3,
+                "to": 1,
+                "weight": 5
+            },
+            {
+                "from": 3,
+                "to": 2,
+                "weight": 4
+            }
+        ],
+        "parties": [
+            {
+                "id": 0,
+                "mandates": 30,
+                "name": "McLaren's",
+                "state": "Joined"
+            },
+            {
+                "id": 1,
+                "mandates": 30,
+                "name": "Central Perk",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 2,
+                "mandates": 30,
+                "name": "Ba Sing Se",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 3,
+                "mandates": 30,
+                "name": "The Krusty Krab",
+                "state": "Joined"
+            }
+        ]
+    },
+    {
+        "agents": [
+            {
+                "id": 0,
+                "partyId": 0
+            },
+            {
+                "id": 1,
+                "partyId": 3
+            }
+        ],
+        "coalitions": [
+            {
+                "mandates": 30,
+                "parties": [
+                    0
+                ]
+            },
+            {
+                "mandates": 30,
+                "parties": [
+                    3
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "from": 0,
+                "to": 1,
+                "weight": 4
+            },
+            {
+                "from": 0,
+                "to": 2,
+                "weight": 5
+            },
+            {
+                "from": 0,
+                "to": 3,
+                "weight": 6
+            },
+            {
+                "from": 1,
+                "to": 0,
+                "weight": 4
+            },
+            {
+                "from": 1,
+                "to": 2,
+                "weight": 7
+            },
+            {
+                "from": 1,
+                "to": 3,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 0,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 1,
+                "weight": 7
+            },
+            {
+                "from": 2,
+                "to": 3,
+                "weight": 4
+            },
+            {
+                "from": 3,
+                "to": 0,
+                "weight": 6
+            },
+            {
+                "from": 3,
+                "to": 1,
+                "weight": 5
+            },
+            {
+                "from": 3,
+                "to": 2,
+                "weight": 4
+            }
+        ],
+        "parties": [
+            {
+                "id": 0,
+                "mandates": 30,
+                "name": "McLaren's",
+                "state": "Joined"
+            },
+            {
+                "id": 1,
+                "mandates": 30,
+                "name": "Central Perk",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 2,
+                "mandates": 30,
+                "name": "Ba Sing Se",
+                "state": "CollectingOffers"
+            },
+            {
+                "id": 3,
+                "mandates": 30,
+                "name": "The Krusty Krab",
+                "state": "Joined"
+            }
+        ]
+    },
+    {
+        "agents": [
+            {
+                "id": 0,
+                "partyId": 0
+            },
+            {
+                "id": 1,
+                "partyId": 3
+            },
+            {
+                "id": 2,
+                "partyId": 1
+            },
+            {
+                "id": 3,
+                "partyId": 2
+            }
+        ],
+        "coalitions": [
+            {
+                "mandates": 60,
+                "parties": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "mandates": 60,
+                "parties": [
+                    3,
+                    2
+                ]
+            }
+        ],
+        "edges": [
+            {
+                "from": 0,
+                "to": 1,
+                "weight": 4
+            },
+            {
+                "from": 0,
+                "to": 2,
+                "weight": 5
+            },
+            {
+                "from": 0,
+                "to": 3,
+                "weight": 6
+            },
+            {
+                "from": 1,
+                "to": 0,
+                "weight": 4
+            },
+            {
+                "from": 1,
+                "to": 2,
+                "weight": 7
+            },
+            {
+                "from": 1,
+                "to": 3,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 0,
+                "weight": 5
+            },
+            {
+                "from": 2,
+                "to": 1,
+                "weight": 7
+            },
+            {
+                "from": 2,
+                "to": 3,
+                "weight": 4
+            },
+            {
+                "from": 3,
+                "to": 0,
+                "weight": 6
+            },
+            {
+                "from": 3,
+                "to": 1,
+                "weight": 5
+            },
+            {
+                "from": 3,
+                "to": 2,
+                "weight": 4
+            }
+        ],
+        "parties": [
+            {
+                "id": 0,
+                "mandates": 30,
+                "name": "McLaren's",
+                "state": "Joined"
+            },
+            {
+                "id": 1,
+                "mandates": 30,
+                "name": "Central Perk",
+                "state": "Joined"
+            },
+            {
+                "id": 2,
+                "mandates": 30,
+                "name": "Ba Sing Se",
+                "state": "Joined"
+            },
+            {
+                "id": 3,
+                "mandates": 30,
+                "name": "The Krusty Krab",
+                "state": "Joined"
+            }
+        ]
+    }
+]
