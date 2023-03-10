@@ -1,8 +1,9 @@
 # Systems-Programming-BGU
 My Spl Course At @bgu, Assignments and Solutions, year's 22-23
 
-#HW1: 
-Social Network System
+# HW1: 
+
+# Social Network System
 This project is a server-client-based social network system that supports communication using a binary communication protocol. Users can register, follow other users, and post messages. The project includes server-side implementations of both Thread-Per-Client and Reactor server patterns in Java and C++.
 
 Features
